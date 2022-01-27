@@ -3,6 +3,5 @@
 
 
 - Iniciará o git dentro do repositório
-''' 
-    git init
-'''
+"git init"
+
